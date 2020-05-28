@@ -20,16 +20,16 @@ function clock(){
     window.location = "/Clock/index.html";
 }
 function toGayText(){
-    window.location = "/gayText.html"}
+    window.location = "gayText.html"}
 function toTicTacToe(){
-    window.location = "/Tictactoe/index.html"
+    window.location = "tictactoe/index.html"
 }
 function toDraw(){
-    window.location = "/Draw/index.html"
+    window.location = "draw/index.html"
 }
 function toCalendar(){
-    window.location = "/Calendar/index.html"
+    window.location = "calendar/index.html"
 }
 function toLab4 () {
-    window.location = "/Lab4/lab4.html"
+    window.location = "lab4/lab4.html"
 }
