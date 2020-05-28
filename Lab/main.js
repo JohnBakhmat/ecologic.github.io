@@ -17,19 +17,19 @@ function register(){
     window.location = "index.html"
 }
 function clock(){
-    window.location = "clock/index.html";
+    window.location = "Clock/index.html";
 }
 function toGayText(){
     window.location = "gayText.html"}
 function toTicTacToe(){
-    window.location = "tictactoe/index.html"
+    window.location = "Tictactoe/index.html"
 }
 function toDraw(){
-    window.location = "draw/index.html"
+    window.location = "Draw/index.html"
 }
 function toCalendar(){
-    window.location = "calendar/index.html"
+    window.location = "Calendar/index.html"
 }
 function toLab4 () {
-    window.location = "lab4/lab4.html"
+    window.location = "Lab4/lab4.html"
 }
