@@ -6,7 +6,7 @@ function loadXMLDoc(){
             myFunction(this)
         }
     };
-    xhttp.open("GET", "lab4/Books.xml", true);
+    xhttp.open("GET", "Books.xml", true);
     xhttp.send();}
 function myFunction(xml) {
     var i;
