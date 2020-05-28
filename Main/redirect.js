@@ -29,5 +29,5 @@ function toTwitter () {
     window.location = "https://twitter.com/ECOLogi74433644"
 }
 function toLab2(){
-	window.location = "../Lab/index.html";
+	window.location = "../lab/index.html";
 }
